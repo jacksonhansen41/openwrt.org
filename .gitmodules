@@ -148,3 +148,6 @@
 [submodule "feed/packages.git"]
 	path = feed/packages.git
 	url = https://git.openwrt.org/feed/packages.git
+[submodule "openwrt/openwrt.git"]
+	path = openwrt/openwrt.git
+	url = https://git.openwrt.org/openwrt/openwrt.git
