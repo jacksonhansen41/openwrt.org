@@ -1,0 +1,150 @@
+[submodule "feed/video.git"]
+	path = feed/video.git
+	url = https://git.openwrt.org/feed/video.git
+[submodule "feed/routing.git"]
+	path = feed/routing.git
+	url = https://git.openwrt.org/feed/routing.git
+[submodule "feed/telephony.git"]
+	path = feed/telephony.git
+	url = https://git.openwrt.org/feed/telephony.git
+[submodule "project/firmware/qca-wireless.git"]
+	path = project/firmware/qca-wireless.git
+	url = https://git.openwrt.org/project/firmware/qca-wireless.git
+[submodule "project/luci2/ui.git"]
+	path = project/luci2/ui.git
+	url = https://git.openwrt.org/project/luci2/ui.git
+[submodule "project/cgi-io.git"]
+	path = project/cgi-io.git
+	url = https://git.openwrt.org/project/cgi-io.git
+[submodule "project/usteer.git"]
+	path = project/usteer.git
+	url = https://git.openwrt.org/project/usteer.git
+[submodule "project/mountd.git"]
+	path = project/mountd.git
+	url = https://git.openwrt.org/project/mountd.git
+[submodule "project/make_ext4fs.git"]
+	path = project/make_ext4fs.git
+	url = https://git.openwrt.org/project/make_ext4fs.git
+[submodule "project/procd.git"]
+	path = project/procd.git
+	url = https://git.openwrt.org/project/procd.git
+[submodule "project/ubus.git"]
+	path = project/ubus.git
+	url = https://git.openwrt.org/project/ubus.git
+[submodule "project/fstools.git"]
+	path = project/fstools.git
+	url = https://git.openwrt.org/project/fstools.git
+[submodule "project/firewall4.git"]
+	path = project/firewall4.git
+	url = https://git.openwrt.org/project/firewall4.git
+[submodule "project/iwinfo.git"]
+	path = project/iwinfo.git
+	url = https://git.openwrt.org/project/iwinfo.git
+[submodule "project/mdnsd.git"]
+	path = project/mdnsd.git
+	url = https://git.openwrt.org/project/mdnsd.git
+[submodule "project/ustp.git"]
+	path = project/ustp.git
+	url = https://git.openwrt.org/project/ustp.git
+[submodule "project/qosify.git"]
+	path = project/qosify.git
+	url = https://git.openwrt.org/project/qosify.git
+[submodule "project/ugps.git"]
+	path = project/ugps.git
+	url = https://git.openwrt.org/project/ugps.git
+[submodule "project/fwtool.git"]
+	path = project/fwtool.git
+	url = https://git.openwrt.org/project/fwtool.git
+[submodule "project/ucert.git"]
+	path = project/ucert.git
+	url = https://git.openwrt.org/project/ucert.git
+[submodule "project/bcm63xx/atf.git"]
+	path = project/bcm63xx/atf.git
+	url = https://git.openwrt.org/project/bcm63xx/atf.git
+[submodule "project/umbim.git"]
+	path = project/umbim.git
+	url = https://git.openwrt.org/project/umbim.git
+[submodule "project/libnl-tiny.git"]
+	path = project/libnl-tiny.git
+	url = https://git.openwrt.org/project/libnl-tiny.git
+[submodule "project/jsonpath.git"]
+	path = project/jsonpath.git
+	url = https://git.openwrt.org/project/jsonpath.git
+[submodule "project/odhcp6c.git"]
+	path = project/odhcp6c.git
+	url = https://git.openwrt.org/project/odhcp6c.git
+[submodule "project/relayd.git"]
+	path = project/relayd.git
+	url = https://git.openwrt.org/project/relayd.git
+[submodule "project/unetd.git"]
+	path = project/unetd.git
+	url = https://git.openwrt.org/project/unetd.git
+[submodule "project/uci.git"]
+	path = project/uci.git
+	url = https://git.openwrt.org/project/uci.git
+[submodule "project/udebug.git"]
+	path = project/udebug.git
+	url = https://git.openwrt.org/project/udebug.git
+[submodule "project/ustream-ssl.git"]
+	path = project/ustream-ssl.git
+	url = https://git.openwrt.org/project/ustream-ssl.git
+[submodule "project/ubox.git"]
+	path = project/ubox.git
+	url = https://git.openwrt.org/project/ubox.git
+[submodule "project/ufp.git"]
+	path = project/ufp.git
+	url = https://git.openwrt.org/project/ufp.git
+[submodule "project/opkg-lede.git"]
+	path = project/opkg-lede.git
+	url = https://git.openwrt.org/project/opkg-lede.git
+[submodule "project/uhttpd.git"]
+	path = project/uhttpd.git
+	url = https://git.openwrt.org/project/uhttpd.git
+[submodule "project/libubox.git"]
+	path = project/libubox.git
+	url = https://git.openwrt.org/project/libubox.git
+[submodule "project/librpc-uclibc.git"]
+	path = project/librpc-uclibc.git
+	url = https://git.openwrt.org/project/librpc-uclibc.git
+[submodule "project/firewall3.git"]
+	path = project/firewall3.git
+	url = https://git.openwrt.org/project/firewall3.git
+[submodule "project/netifd.git"]
+	path = project/netifd.git
+	url = https://git.openwrt.org/project/netifd.git
+[submodule "project/odhcpd.git"]
+	path = project/odhcpd.git
+	url = https://git.openwrt.org/project/odhcpd.git
+[submodule "project/urngd.git"]
+	path = project/urngd.git
+	url = https://git.openwrt.org/project/urngd.git
+[submodule "project/usign.git"]
+	path = project/usign.git
+	url = https://git.openwrt.org/project/usign.git
+[submodule "project/rpcd.git"]
+	path = project/rpcd.git
+	url = https://git.openwrt.org/project/rpcd.git
+[submodule "project/firmware-utils.git"]
+	path = project/firmware-utils.git
+	url = https://git.openwrt.org/project/firmware-utils.git
+[submodule "project/uclient.git"]
+	path = project/uclient.git
+	url = https://git.openwrt.org/project/uclient.git
+[submodule "project/uqmi.git"]
+	path = project/uqmi.git
+	url = https://git.openwrt.org/project/uqmi.git
+[submodule "project/usbmode.git"]
+	path = project/usbmode.git
+	url = https://git.openwrt.org/project/usbmode.git
+[submodule "project/omcproxy.git"]
+	path = project/omcproxy.git
+	url = https://git.openwrt.org/project/omcproxy.git
+[submodule "project/bcm63xx/u-boot.git"]
+	path = project/bcm63xx/u-boot.git
+	url = https://git.openwrt.org/project/bcm63xx/u-boot.git
+[submodule "project/luci.git"]
+	path = project/luci.git
+	url = https://git.openwrt.org/project/luci.git
+[submodule "feed/packages.git"]
+	path = feed/packages.git
+	url = https://git.openwrt.org/feed/packages.git
